@@ -13,7 +13,7 @@ let whichDayOfWeek = (today) => {
       document.write("Today is Tuesday!");
       break;
     case 3:
-      document.write("Today is Wednesdday!");
+      document.write("Today is Wednesday!");
       break;
     case 4:
       document.write("Today is Thursday!");
@@ -22,10 +22,10 @@ let whichDayOfWeek = (today) => {
       document.write("Today is Friday!");
       break;
     case 6:
-      document.write("Today is Saturday");
+      document.write("Today is Saturday!");
       break;
     case 0:
-      document.write("Today is Sunday");
+      document.write("Today is Sunday!");
       break;
   }
 };

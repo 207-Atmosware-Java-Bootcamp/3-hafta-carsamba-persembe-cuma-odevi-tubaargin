@@ -14,7 +14,7 @@ var today = new Date().getDay();
       document.write("Today is Tuesday!");
       break;
     case 3:
-      document.write("Today is Wednesdday!");
+      document.write("Today is Wednesday!");
       break;
     case 4:
       document.write("Today is Thursday!");
@@ -23,10 +23,10 @@ var today = new Date().getDay();
       document.write("Today is Friday!");
       break;
     case 6:
-      document.write("Today is Saturday");
+      document.write("Today is Saturday!");
       break;
     case 0:
-      document.write("Today is Sunday");
+      document.write("Today is Sunday!");
       break;
   }
 })(today);
