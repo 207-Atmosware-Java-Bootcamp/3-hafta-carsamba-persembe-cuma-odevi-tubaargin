@@ -24,7 +24,7 @@ function adminFunction(userEmail, userPassword) {
     userPassword = prompt("Passwords do not match! Enter your password again");
   }
   if (isFail) {
-    document.write("Bloke");
+    document.write("Blocked");
   } else {
     document.write("Login Success");
   }
