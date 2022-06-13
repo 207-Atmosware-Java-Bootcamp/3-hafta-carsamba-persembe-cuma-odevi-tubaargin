@@ -1,4 +1,4 @@
-# 3.hafta.carsamba.persembe.cuma.odevi
+# 3.hafta çarşamba-perşembe cuma ödevi (08.06.2022)-(10.06.2022)
 1) LİFO FİFO
 2) Apply-Call-Bind nedir?
 3) <b>Ödev-1:</b> y=3x+4k ==> 1.dereceden 2 bilinmyenli denklem, kullanıcı tarafından alınan x ve k değerlerini hesaplayan algoritma yazınız? 
